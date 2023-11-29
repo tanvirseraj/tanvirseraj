@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-download backup
 
-preview
 <h1 align="center">Hi 👋, I'm Tanvir Seraj</h1>
 <h3 align="center">A passionate SQA from Bangladesh</h3>
 
