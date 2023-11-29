@@ -14,18 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-18087
-Fork on GitHub
-5323
 
-back to edit
-
-copy-markdown
-
-download markdown
 
 download backup
 
