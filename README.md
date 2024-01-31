@@ -23,6 +23,26 @@
           <a href="https://www.linkedin.com/in/tanvir-seraj/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+<details>
+  <summary><strong><h3>GitHub Statistical Reports:</h3></strong></summary>
+  <br>
+  <table border="0">
+    <tr>
+      <td colspan="2" align="center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvirseraj&show_icons=true&theme=" alt="tanvirseraj" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanvirseraj&show_icons=true&theme=" alt="tanvirseraj" />
+      </td>
+      <td>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanvirseraj&show_icons=true&theme=" alt="tanvirseraj" />
+      </td>
+    </tr>
+    </table>
+</details>
+
 
 
 
