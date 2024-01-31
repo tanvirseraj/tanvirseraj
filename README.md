@@ -17,6 +17,12 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="mailto:tanvirseraj68@gmail.com"><img src="https://img.shields.io/badge/Gmail-lightgrey?style=flat&logo=gmail"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="https://www.linkedin.com/in/tanvir-seraj/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
 
 
 
